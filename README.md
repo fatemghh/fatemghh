@@ -3,7 +3,7 @@
 <img align="right" alt="ghani" width="400" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatemghh&label=Profile%20views&color=0e75b6&style=flat" alt="fatemghh" /> </p>
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **fatemehghani19@gmail.com**
 
