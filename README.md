@@ -1,24 +1,88 @@
-<h1 align="center">Hi 👋, I'm Fatemeh</h1>
-<h3 align="center">A passionate developer from Iran</h3>
-<img align="right" alt="ghani" width="400" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatemghh&label=Profile%20views&color=0e75b6&style=flat" alt="fatemghh" /> </p>
+<h1 align="center">
+  Hi 👋 I'm Fatemeh
+</h1>
 
-- 🌱 I am currently learning. 
-
-- 📫 How to reach me **fatemehghani19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatemehghani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatemehghani1" height="30" width="40" /></a>
-<a href="https://instagram.com/curlycodequeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curlycodequeen" height="30" width="40" /></a>
+<p align="center">
+  💻 Software Developer • 🌸 Python Learner • ☕ Coffee & Code
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A8D9&center=true&vCenter=true&width=500&lines=Python+Developer;Building+Cool+Projects;Always+Learning+New+Things;Curly+Code+Queen+%F0%9F%91%91" />
+</p>
 
+---
 
+## 🌷 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemghh&show_icons=true&locale=en" alt="fatemghh" /></p>
+```python
+class Fatemeh:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemghh&" alt="fatemghh" /></p>
+    location = "Iran 🇮🇷"
 
+    studying = [
+        "Python",
+        "Backend Development",
+        "Software Engineering"
+    ]
+
+    hobbies = [
+        "Coding 💻",
+        "Coffee ☕",
+        "Cats 🐈",
+        "Music 🎧"
+    ]
+
+    motto = "Keep building. Keep learning."
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/fatemehghani1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/curlycodequeen">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatemghh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fatemghh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemghh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+✨ *Code • Create • Repeat* ✨
+
+</p>
